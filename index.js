@@ -3,7 +3,7 @@
  *
  * @author Maciej Chałapuk (maciej@chalapuk.pl)
  */
-export const externals = {
+exports.externals = {
   'react': {
     root: 'React',
     commonjs: 'react',
@@ -31,7 +31,7 @@ export const externals = {
   },
 };
 
-export noParse = [
+exports.noParse = [
   require.resolve('react'),
   require.resolve('prop-types'),
   require.resolve('react-dom'),
