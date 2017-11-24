@@ -10,7 +10,7 @@ exports.externals = {
     commonjs2: 'react',
   },
   'prop-types': {
-    root: 'React.PropTypes',
+    root: 'PropTypes',
     commonjs: 'prop-types',
     commonjs2: 'prop-types',
   },
