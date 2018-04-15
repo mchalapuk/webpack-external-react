@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muroc/webpack-external-react.git"
+    "url": "git+https://github.com/mchalapuk/webpack-external-react.git"
   },
   "keywords": [
     "webpack",
@@ -22,7 +22,7 @@
   "author": "Maciej Chałapuk (m.chalapuk@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muroc/webpack-external-react/issues"
+    "url": "https://github.com/mchalapuk/webpack-external-react/issues"
   },
-  "homepage": "https://github.com/muroc/webpack-external-react#readme"
+  "homepage": "https://github.com/mchalapuk/webpack-external-react#readme"
 }
