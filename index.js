@@ -24,11 +24,6 @@ exports.externals = {
     commonjs: 'react-dom/server',
     commonjs2: 'react-dom/server',
   },
-  'react-router-dom': {
-    root: 'ReactRouterDOM',
-    commonjs: 'react-router-dom',
-    commonjs2: 'react-router-dom',
-  },
 };
 
 exports.noParse = [
@@ -36,6 +31,5 @@ exports.noParse = [
   require.resolve('prop-types'),
   require.resolve('react-dom'),
   require.resolve('react-dom/server'),
-  require.resolve('react-router-dom'),
 ];
 
