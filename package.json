@@ -4,7 +4,8 @@
   "description": "Webpack config helpers to exclude react from bundle and load it from external script (via CDN).",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/index.spec.js"
+    "test": "mocha test/index.spec.js",
+    "deploy": "npm publish"
   },
   "repository": {
     "type": "git",
