@@ -4,7 +4,7 @@
   "description": "Webpack config helpers to exclude react from bundle and load it from external script (via CDN).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/index.spec.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/mchalapuk/webpack-external-react/issues"
   },
-  "homepage": "https://github.com/mchalapuk/webpack-external-react#readme"
+  "homepage": "https://github.com/mchalapuk/webpack-external-react#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "should": "^13.2.3",
+    "webpack": "^4.39.2"
+  },
+  "dependencies": {}
 }
