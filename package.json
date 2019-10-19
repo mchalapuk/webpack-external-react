@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/mchalapuk/webpack-external-react#readme",
   "devDependencies": {
-    "mocha": "^6.2.1",
+    "mocha": "^6.2.2",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
