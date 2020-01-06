@@ -1,6 +1,6 @@
 {
   "name": "webpack-external-react",
-  "version": "1.1.15",
+  "version": "1.1.16",
   "description": "Webpack config helpers to exclude react from bundle and load it from external script (via CDN).",
   "main": "index.js",
   "scripts": {
