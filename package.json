@@ -32,7 +32,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "should": "^13.2.3",
-    "webpack": "^4.41.6"
+    "webpack": "^4.42.0"
   },
   "dependencies": {}
 }
