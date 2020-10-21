@@ -29,8 +29,8 @@
   "devDependencies": {
     "mocha": "^8.2.0",
     "prop-types": "^15.7.2",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "should": "^13.2.3",
     "webpack": "^5.1.3"
   },
